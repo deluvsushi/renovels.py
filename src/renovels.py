@@ -14,7 +14,7 @@ class Renovels:
 			self,
 			hl: str = "en",
 			vh: int = 957769019,
-			cb: str = "x8tfd89z6xpn",
+			cb: str = "ldc1g171u95e",
 			chr: str = "[20,59,35]",
 			v: str = "PRMRaAwB3KlylGQR57Dyk-pF",
 			key: str = "6LdGNc8UAAAAAOi7mZdoujfQ0s-zHexDM8AWyB1J",
