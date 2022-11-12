@@ -15,14 +15,15 @@ class Renovels:
 			hl: str = "en",
 			vh: int = 957769019,
 			cb: str = "ldc1g171u95e",
+			size: str = "invisible",
 			chr: str = "[20,59,35]",
 			v: str = "PRMRaAwB3KlylGQR57Dyk-pF",
 			key: str = "6LdGNc8UAAAAAOi7mZdoujfQ0s-zHexDM8AWyB1J",
 			co: str = "aHR0cHM6Ly9yZW5vdmVscy5vcmc6NDQz",
-			bg: str = "!PjigOD0KAAQeDmbXbQEHnAPKGu-t_o708wc3kcTmcuDgv3uLL8uZv86ItulHJ4T8KxIrUaFTX3YvwThY_KZD2eAAaB1-LDAID-Ac9eenF4fc7jH8d7cs3bHwgC_v8MCYTsnbxk6XyKnzGcbDY5MkkUUvP1uqI5AgC01qW66QeMmAbcBXfsO9PQmcKCkdMpWg_rdnbLNQ8123t0zAn43NngTp2udEJLfTReZDUW0dFelpuWcLKQPgmqCp4ql7zuw0rdLz-I2SqLTq24KxiLQ_IdEDU47Stj7-kFGStxAIpC90Yb87l-ZvLnLOanQhqsSXrAFfk1Iq3WH8psN_HQocY5_3KvEM6icEVOTP7O92NwXtF_CR5rtEcRQCRWy6FwXq7IJU9llLiMGs-b-riJF6KZ41E7_thePws0-Rs7MZT1qMXfDjOi6rog3iqVJ89bXfaVRoCKr-pbvAOcJv2WNEIIVCCDQdEP0rSNHYFuQifX03gzB3xNYPctixe1UIMS2vdT75vaaRTSqG1NdZd8ur3DdhqZMs6CYr8ePZmMWKle3e0S5o3-jF2Whu7demXBYJJHLYUVUyBeSrwVROzUYEdz2ig2noOisgyAIgSYFhjQ2FpkpQ4pkBocNlmbmmJsceaA0b-Q8bNa4m9BDa6z3wX3ES_kRnOz9n_j2VK1LvkIElz4hMOQM3BbWqT4QrOIFcGU_ZdPc91aDCxhHfPPiZW8plmAuTam4XrCInIbT-UTP8L6sRzpqY3yuMySkWhmKQXNIYhThrl11GkbzmuUS8RKCwcZyDp1OK9RSNXXI6NSo5DXqb9XLNXU_d6DBIh8Ozrh7HsHE0m6pAZJCs-K4PwYwWbOebyWZiPiiQaqpzXtAqJVjNuZZ2Qv4jHzhV9v2HKgJeEPNucpB_nACcVURvFzL4VTiBxeb5XVoEWLeteBg-T4uEuGbV8dfQKJ6kCetWAycvzXwzzqH-X-_BSRzAVdcIcoxIJ-iQsXtsFRna4SJDvbThEtnCyyo9JMTjfhLOdK9t3kZ6fvKMTWmJWlQZ4t1c_0i2tT8BaUc9UumCe6RAuFLLlxY2qoGPcjbngQjMTakGAPyEVuiz0d4tmZb974qp1cELMXzjyuJciYUtYwW5c8zNOmwo8pzsPM09zHrlZTY7aA9BsR4ev9gl7c5KnEPKyhWjqEoljgeSF5FpyJs4ERQfgXpl82W9P75ppRXvbgeRz8L6eujdlI_Rd_SSM2TgNsQhZDn4HKA_ky7p0tMx5GW49Ww3-fKrns5p3DSy5x7COcsNNqnCGCmjft_awzS-bBgBAWaORIy5Ng*",
-			parameters: str = f"v={v}&reason=q&c=<token>&k={key}&co={co}&hl={hl}&size=invisible&chr={chr}&vh={vh}&bg={bg}"):
+			bg: str = "!PjigOD0KAAQeDmbXbQEHnAPKGu-t_o708wc3kcTmcuDgv3uLL8uZv86ItulHJ4T8KxIrUaFTX3YvwThY_KZD2eAAaB1-LDAID-Ac9eenF4fc7jH8d7cs3bHwgC_v8MCYTsnbxk6XyKnzGcbDY5MkkUUvP1uqI5AgC01qW66QeMmAbcBXfsO9PQmcKCkdMpWg_rdnbLNQ8123t0zAn43NngTp2udEJLfTReZDUW0dFelpuWcLKQPgmqCp4ql7zuw0rdLz-I2SqLTq24KxiLQ_IdEDU47Stj7-kFGStxAIpC90Yb87l-ZvLnLOanQhqsSXrAFfk1Iq3WH8psN_HQocY5_3KvEM6icEVOTP7O92NwXtF_CR5rtEcRQCRWy6FwXq7IJU9llLiMGs-b-riJF6KZ41E7_thePws0-Rs7MZT1qMXfDjOi6rog3iqVJ89bXfaVRoCKr-pbvAOcJv2WNEIIVCCDQdEP0rSNHYFuQifX03gzB3xNYPctixe1UIMS2vdT75vaaRTSqG1NdZd8ur3DdhqZMs6CYr8ePZmMWKle3e0S5o3-jF2Whu7demXBYJJHLYUVUyBeSrwVROzUYEdz2ig2noOisgyAIgSYFhjQ2FpkpQ4pkBocNlmbmmJsceaA0b-Q8bNa4m9BDa6z3wX3ES_kRnOz9n_j2VK1LvkIElz4hMOQM3BbWqT4QrOIFcGU_ZdPc91aDCxhHfPPiZW8plmAuTam4XrCInIbT-UTP8L6sRzpqY3yuMySkWhmKQXNIYhThrl11GkbzmuUS8RKCwcZyDp1OK9RSNXXI6NSo5DXqb9XLNXU_d6DBIh8Ozrh7HsHE0m6pAZJCs-K4PwYwWbOebyWZiPiiQaqpzXtAqJVjNuZZ2Qv4jHzhV9v2HKgJeEPNucpB_nACcVURvFzL4VTiBxeb5XVoEWLeteBg-T4uEuGbV8dfQKJ6kCetWAycvzXwzzqH-X-_BSRzAVdcIcoxIJ-iQsXtsFRna4SJDvbThEtnCyyo9JMTjfhLOdK9t3kZ6fvKMTWmJWlQZ4t1c_0i2tT8BaUc9UumCe6RAuFLLlxY2qoGPcjbngQjMTakGAPyEVuiz0d4tmZb974qp1cELMXzjyuJciYUtYwW5c8zNOmwo8pzsPM09zHrlZTY7aA9BsR4ev9gl7c5KnEPKyhWjqEoljgeSF5FpyJs4ERQfgXpl82W9P75ppRXvbgeRz8L6eujdlI_Rd_SSM2TgNsQhZDn4HKA_ky7p0tMx5GW49Ww3-fKrns5p3DSy5x7COcsNNqnCGCmjft_awzS-bBgBAWaORIy5Ng*"):
+		parameters = f"v={v}&reason=q&c=<token>&k={key}&co={co}&hl={hl}&size={size}&chr={chr}&vh={vh}&bg={bg}"
 		anchor = requests.get(
-			f"{self.recaptcha_api}/anchor?ar=1&k={key}&co={co}&hl={hl}&v={v}&size=invisible&cb={cb}",
+			f"{self.recaptcha_api}/anchor?ar=1&k={key}&co={co}&hl={hl}&v={v}&size={size}&cb={cb}",
 			headers=self.headers).text
 		recaptcha_token = anchor.split(
 			'recaptcha-token" value="')[1].split('">')[0]
